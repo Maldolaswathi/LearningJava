@@ -1,0 +1,7 @@
+import java.util.*;
+public class vectors {
+    public static void main(String[] args) {
+        List v=new List();
+        System.out.println(v);
+    }
+}

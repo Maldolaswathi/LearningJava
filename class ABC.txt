@@ -1,0 +1,24 @@
+class ABC
+{
+    void a()
+    System.out.println("vaanakam");
+}
+void b()
+System.out.println("hello");
+}
+void c()
+System.out.println("namaste");
+}
+ABC()
+{
+    System.out.println("good");
+}
+ABC()
+{
+      System.out.println("mrng");
+}
+
+
+}
+}
+}

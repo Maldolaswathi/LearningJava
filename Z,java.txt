@@ -1,0 +1,22 @@
+class Z 
+{
+
+
+}
+
+class y
+{
+    class x
+    {
+
+    }
+}
+interface interface
+{
+
+}
+abstract class q
+{
+}
+
+   
